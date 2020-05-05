@@ -1,0 +1,2 @@
+# JDDataAnalysis
+基于Python的京东用户购物信息挖掘及应用
